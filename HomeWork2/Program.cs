@@ -7,6 +7,8 @@ namespace HomeWork2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            public float speed = 1f;
         }
     }
 }
